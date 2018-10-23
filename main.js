@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         cursorColor: '#fff',
         // This parameter makes the waveform look like SoundCloud's player
         barWidth: 2,
-        barHeight     : 3,
+        barHeight: 3,
     });
 
     // Init
